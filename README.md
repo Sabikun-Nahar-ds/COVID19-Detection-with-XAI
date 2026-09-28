@@ -3,10 +3,10 @@ Code implementation for the research paper "COVID-19 Detection Using VGG16: Enha
 
 # COVID-19 Detection Using VGG16 with XAI and Adversarial Analysis
 
-This repository contains the code and Jupyter Notebooks for the research paper: **COVID-19 Detection Using VGG16: Enhancing Robustness and Interpretability with Adversarial Attack Analysis and Explainable AI**. 
+This repository contains the code and Jupyter Notebook for the research paper: **COVID-19 Detection Using VGG16: Enhancing Robustness and Interpretability with Adversarial Attack Analysis and Explainable AI**. 
 
 ## Overview
-This project implements a Convolutional Neural Network pipeline to classify chest X-ray images into three categories: COVID-19, Non-COVID, and Normal. It also evaluates the model's robustness against adversarial attacks and utilizes Explainable AI techniques to highlight critical radiological biomarkers.
+This project implements a **Convolutional Neural Network** pipeline to classify chest X-ray images into three categories: COVID-19, Non-COVID, and Normal. It also evaluates the model's **robustness against adversarial attacks** and utilizes Explainable AI techniques to highlight critical radiological biomarkers.
 
 ## Dataset
 The model is trained and evaluated on the COVID-QU-Ex dataset from Kaggle, specifically utilizing the Lung Segmentation Data. 
